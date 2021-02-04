@@ -1,0 +1,1 @@
+03-02-2021 19:36:55 - ArgumentCountError:  Too few arguments to function Template::__construct(), 1 passed in C:\wamp2\www\upload-demo\system\storage\modification\system\engine\loader.php on line 123 and exactly 2 expected no arquivo C:\wamp2\www\upload-demo\system\storage\modification\system\library\template.php na linha 24

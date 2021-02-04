@@ -1,0 +1,1 @@
+<?php include (DIR_APPLICATION.'language/pt-br/extension/d_visual_designer_module/blog_post.php');
